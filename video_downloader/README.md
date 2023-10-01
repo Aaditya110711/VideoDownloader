@@ -1,4 +1,4 @@
-# VideoDownloader
+# video_downloader
 
 This a Django based website for downloading YouTube and Facebook videos.
 For downloading YouTube videos I use pytube library and for Facebook video downloading i have used web scraping method.
